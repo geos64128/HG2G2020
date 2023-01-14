@@ -1,6 +1,7 @@
 # HG2G2020
 Hitchhikers Guide to GEOS v2020
 
+UPDATE:  HG2G2022 can be found here: https://github.com/geos64128/HG2G2022
 
 The Goal of this Document is
 1. combine the collective works from:
